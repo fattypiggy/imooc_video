@@ -1,0 +1,25 @@
+{
+  "name": "imooc-video",
+  "description": "imooc video demo",
+  "main": "",
+  "authors": [
+    "williamjing <william_jing@qq.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "imooc",
+    "video"
+  ],
+  "homepage": "https://github.com/fattypiggy/imooc_video",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
